@@ -1,0 +1,11 @@
+OOP in Java - Class & Object
+Introduction   Object Oriented Programming (OOP):
+A programming approach based on objects and classes.   Why OOP is used:   Real-world modeling   Better code organization   Reusability   Easy maintenance   OOP models real-world entities   Class:
+A class is a blueprint or template for creating objects.   Object:
+An object is a real instance of class.   Class -> Car
+Objects -> BMW, Audi, Tesla   Class does not occupy memory
+Object occupies memory   class Car {
+String color;
+int speed;
+}   Class defines properties   Objects use those properties   Class defines, Object represents
+Would you like me to extract text from any more handwritten pages?
