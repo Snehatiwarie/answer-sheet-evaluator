@@ -1,0 +1,9 @@
+1. Introduction to Operating Systems
+1.1. Definition of an Operating System:
+An operating system (OS) is a crucial software component that acts as an intermediary between computer hardware and software applications. It provides a consistent and user-friendly interface for users and applications to interact with the hardware. The OS manages hardware resources, executes and supervises applications, and ensures smooth coordination between various system components.
+Copyrighted by CodeWithCurious.com
+1.2. Function and Goals of an Operating System:
+The primary functions of an operating system include:
+1. Hardware Abstraction:
+The OS hides the complex details of hardware from applications, enabling programmers to write software without needing to understand the intricacies of the underlying hardware.
+Would you like me to extract any more handwritten notes into plain text?
