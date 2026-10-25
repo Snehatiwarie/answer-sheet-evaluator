@@ -1,1 +1,7 @@
-
+Operating System   CREATE BY - ATUL KUMAR (LINKEDIN)
+CODING BUGS | NOTES GALLERY   => Operating System :- An operating system is a program that manages the computer hardware.   It also provides a basis for application programs and acts as intermediary between the computer user and the computer hardware.   => Generations of operating System :-   a.) 1st Generation (1945-1955)
+Vaccum Tubes and Plug boards.   b.) 2nd Generation (1955-1965)
+Transistors and Batch Systems.   c.) The 3rd Generation (1965-1980)
+Integrated Circuits and Multi programming.   d.) 4th Generation (1980-Current)
+Personal computer.   Types of operating System   1.) Simple Batch system :- In this, there is no direct interacting between the user...
+Would you like me to extract text from any other pages or images?
