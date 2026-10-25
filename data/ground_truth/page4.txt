@@ -1,0 +1,5 @@
+1. Introduction to Databases   1.1 Basic Concepts of databases   What is Database?   A database is an organized collection of structured data that is stored electronically and can be accessed, managed, and manipulated efficiently. It serves as a repository for storing and managing data for various applications.
+In database, data is organized into tables i.e. relations. Each table consists of rows (records) and columns (attributes) that represent different pieces of information.   Data:
+Data is a collection of facts and figures that can be processed to produce information.   Database Management System (DBMS)
+Database management system is a collection of inter-related data and programs to access those data.   The challenges for data management:   Traditional file-based data management approaches suffer from several challenges, such as data redundancy, inconsistency and isolation.
+Data Redundancy: In file-based systems, data is often duplicated across multiple files or applications. This
