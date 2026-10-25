@@ -1,0 +1,5 @@
+=> Encapsulation : In OOP, Encapsulation is defined as binding together the data and the functions that manipulates them.   => Abstraction : Abstraction means displaying only essential information and hiding the details.   Abstraction using classes   Abstraction using Header Files (math.h -> pow())   => Polymorphism : In simple words, we can define polymorphism as an ability of a message to be displayed in more than one form.   Operator overloading   Function overloading
+└> int sum(10, 20, 30)
+int sum(10, 20)   => Inheritance : The capability of a class to derive properties and characteristics from another class is called inheritance.   Subclass   SuperClass   Reusability   ATUL KUMAR (LINKEDIN)
+NOTES GALLERY (TELEGRAM)   Dynamic Binding :
+In dynamic binding, the code to be executed in response to function call is decided at run time
